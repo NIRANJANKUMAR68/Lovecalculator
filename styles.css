@@ -1,0 +1,26 @@
+body
+{
+    background-color:pink;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-display: block;
+    font-size: large;
+}
+h1
+{
+    color: brown;
+    margin-top: 25px;
+}
+button
+{
+    background-color:blueviolet;
+    color: black;
+    font-size: 25px;
+    cursor: pointer;
+}
+h2{
+    
+    color: red;
+    margin-top: 25px;
+
+}
